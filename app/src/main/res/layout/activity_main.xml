@@ -25,6 +25,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textStyle="bold"
                 android:text="@string/welcome_to_go_infinity_quiz"
                 android:textSize="@dimen/titleOfThePage" />
 
@@ -266,11 +267,12 @@
 
             <Button
                 style="@style/lastButton"
+                android:layout_marginLeft="@dimen/margin"
                 android:layout_marginTop="@dimen/margin"
                 android:layout_marginBottom="@dimen/margin"
                 android:onClick="submit"
                 android:text="@string/submit" />
 
-        
+
     </LinearLayout>
 </ScrollView>
