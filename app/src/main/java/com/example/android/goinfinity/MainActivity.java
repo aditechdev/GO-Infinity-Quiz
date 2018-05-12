@@ -161,7 +161,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
-    
+
 
     public int editText(View view) {
         EditText name = findViewById(R.id.q7_edit_text);

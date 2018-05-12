@@ -263,24 +263,14 @@
                 android:inputType="textCapWords" />
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="@dimen/margin"
-            android:orientation="horizontal">
 
             <Button
                 style="@style/lastButton"
-                android:layout_marginEnd="@dimen/margin"
+                android:layout_marginTop="@dimen/margin"
+                android:layout_marginBottom="@dimen/margin"
                 android:onClick="submit"
-                android:layout_marginRight="@dimen/margin"
                 android:text="@string/submit" />
 
-            <Button
-                style="@style/lastButton"
-
-                android:text="@string/reset" />
-        </LinearLayout>
+        
     </LinearLayout>
 </ScrollView>
