@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">GO Infinity</string>
+
+    <string name="welcome_to_go_infinity_quiz">GO Infinity quiz</string>
+
+    <string name="questionOne">First women IPS officer?</string>
+    <string name="Q1_option1">Kiran Kumar</string>
+    <string name="Q1_option2">Kiran Bedi</string>
+    <string name="Q1_option3">Kiran Kher</string>
+    <string name="Q1_option4">Kiran Shetty</string>
+
+    <string name="questionTwo">First Indian To Score 100 centuries in both Tests and ODI form of Cricket</string>
+    <string name="Q2_option1">Ravi Shastri</string>
+    <string name="Q2_option2">Sachin Tendulkar</string>
+    <string name="Q2_option3">Mansoor Ali Khan Pataudi</string>
+    <string name="Q2_option4">Sunil Gavaskar</string>
+
+    <string name="questionThree">First Indian Man on Space</string>
+    <string name="Q3_option1">Pawan Agarwal</string>
+    <string name="Q3_option2">Neil Armstrong</string>
+    <string name="Q3_option3">Rakesh Sharma</string>
+    <string name="Q3_option4">Rohit Sharma</string>
+
+    <string name="questionFour">First Formula One Racer from India</string>
+    <string name="Q4_option1">Narain karthikeyan</string>
+    <string name="Q4_option2">Karun Chandhok</string>
+    <string name="Q4_option3">Karan Agarwal</string>
+    <string name="Q4_option4">Michael Dsouza</string>
+
+    <string name="questionFive">First Indian to win Nobel Prize</string>
+    <string name="Q5_option1">C V Raman</string>
+    <string name="Q5_option2">Amartya Sen</string>
+    <string name="Q5_option3">Mother Teresa</string>
+    <string name="Q5_option4">Rabindranath Tagore</string>
+
+    <string name="questionSix">Who was the Miss World from India?</string>
+    <string name="Q6_option1">Reita Faria</string>
+    <string name="Q6_option2">Aishwaya Rai</string>
+    <string name="Q6_option3">Sushmita Sen</string>
+    <string name="Q6_option4">Manushi Chillar</string>
+
+
+    <string name="questionSeven">Who is the current Prime Minister Of India?</string>
+    <string name="currentPM">2018</string>
+
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
